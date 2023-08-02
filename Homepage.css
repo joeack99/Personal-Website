@@ -7,10 +7,12 @@ h2{
     color:Blue;
 
 }
-p{
 
-}
 .language{
     font-size: 20px;
     font-style: italic;
+}
+.ProjectName{
+    font-size: 25px;
+    font-weight: bold;
 }
